@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticaCalificadaApp</string>
+    <string name="lbl_agregar">AGREGAR</string>
+    <string name="lbl_comprar">COMPRAR</string>
+    <string name="lbl_confirmar">CONFIRMAR</string>
+    <string name="lbl_cancelar">CANCELAR</string>
+    <string name="lbl_total">Total Pedido ( S/.)</string>
+    <string name="lbl_producto">Producto</string>
+    <string name="lbl_cantidad">Cantidad ( und )</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Menú Carrrito de Compras</string>
+
+</resources>
